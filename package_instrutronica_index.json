@@ -13,10 +13,10 @@
           "architecture": "avr",
           "version": "1.1.13",
           "category": "Contributed",
-          "url": "https://github.com/AguaDeMexico/board/raw/master/EaglePlus.1.1.13.zip",
-          "archiveFileName": "EaglePlus.1.1.13.zip",
-          "checksum": "SHA-256:6536CD3DDB2E06AC6435B1BC7C3DAD95C671A1C099F7AB6207CA036C130EBAD9",
-          "size": "1130804 ",
+          "url": "https://github.com/Instrutronica/hardware_definition/raw/master/EaglePlus.1.0.0.zip",
+          "archiveFileName": "EaglePlus.1.0.0.zip",
+          "checksum": "SHA-256:745E9719D54C8EE1707801CF9A6EA3FE665F66878A781280FF013E8E4062811B",
+          "size": "819919",
           "boards": [
             {
               "name": "Eagle Plus"
