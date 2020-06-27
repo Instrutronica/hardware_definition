@@ -11,7 +11,7 @@
         {
           "name": "instrutronica AVR Boards",
           "architecture": "avr",
-          "version": "1.1.13",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/Instrutronica/hardware_definition/raw/master/EaglePlus.1.0.0.zip",
           "archiveFileName": "EaglePlus.1.0.0.zip",
